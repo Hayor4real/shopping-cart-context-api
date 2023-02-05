@@ -1,4 +1,4 @@
-# Car Rental Application
+# Shopping Cart Application
 
 This repository contains a project with react context api for state managment used to build an E-commerce shopping cart
 **Features**
